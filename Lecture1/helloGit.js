@@ -1,2 +1,2 @@
 console.log("Hello Git World!");
-console.log("New line");
+console.log("New line"); 
